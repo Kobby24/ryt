@@ -1,0 +1,130 @@
+REPOSITORY MIGRATION REPORT
+===========================
+
+HTML files moved: 16
+CSS files moved (unique): 8
+JavaScript files moved (unique): 29
+Image files moved (unique): 373
+Files renamed: 163 (same filename, different content — suffix -2, -3)
+Duplicate copies collapsed (not overwritten): CSS 47, JS 60, images 1308
+Directories removed (empty after move): 144
+
+TARGET LAYOUT
+-------------
+PROJECT ROOT/
+  index.html
+  about-us.html
+  board-of-directors.html
+  careers.html
+  contact.html
+  group-of-companies.html
+  group-of-companies-old.html
+  services.html
+  projects.html
+  sustainability-and-safety.html
+  commercial-construction.html
+  heavy-civil-construction.html
+  institutional-construction.html
+  mining-services.html
+  ready-mix-concrete.html
+  residential-construction.html
+  style/     (stylesheets)
+  script/    (javascript)
+  src/       (images)
+
+HTML MAP (content-identified pages)
+-----------------------------------
+consarltd.com\index.html
+  -> index.html
+consarltd.com about-us\consarltd.com\about-us.html
+  -> about-us.html
+consarltd.com board-of-directors\consarltd.com\board-of-directors.html
+  -> board-of-directors.html
+consarltd.com careers\consarltd.com\careers.html
+  -> careers.html
+consarltd.com contact\consarltd.com\contact.html
+  -> contact.html
+consarltd.com group-of-companies\consarltd.com\group-of-companies.html
+  -> group-of-companies.html
+consarltd.com group-of-companies-old\consarltd.com\group-of-companies-old.html
+  -> group-of-companies-old.html
+consarltd.com services\consarltd.com\services.html
+  -> services.html
+consarltd.com projects\consarltd.com\projects.html
+  -> projects.html
+consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html
+  -> sustainability-and-safety.html
+consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html
+  -> commercial-construction.html
+consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html
+  -> heavy-civil-construction.html
+consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html
+  -> institutional-construction.html
+consarltd.com mining-services\consarltd.com\services\mining-services.html
+  -> mining-services.html
+consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html
+  -> ready-mix-concrete.html
+consarltd.com residential-construction\consarltd.com\services\residential-construction.html
+  -> residential-construction.html
+
+UPDATED REFERENCES
+------------------
+HTML -> HTML: 458
+HTML -> CSS: 30
+HTML -> JS: 28
+HTML -> Images: 270 (+ leftover /images/ srcset converted to src/)
+CSS -> Images: 20 (plus remaining ../images/ rewritten to ../src/)
+CSS -> Fonts: 0 (fonts load from Google Fonts HTTPS)
+CSS -> CSS: 0
+JS -> HTML: 0
+JS -> Images: 1 (west-africa-map.js fallback -> src/West-Africa.svg)
+JS -> JS: 0
+JS -> Other assets: 0
+
+LEFT IN PLACE (not site pages)
+------------------------------
+Stub HTML files whose entire content is "No Content: https://consarltd.com/..."
+  — not moved; they would collide with real pages and contain no UI.
+
+Google Maps / gtag / Google Fonts dump HTML and Maps JS
+  — not site CSS/JS; contact.html uses live Google Maps embeds (https).
+
+LinkedIn insight.js copies
+  — HTML loads the pixel via https, not these local files.
+
+NOT MOVED (unrelated)
+---------------------
+.txt reports, leftover dump folders that still hold stubs/gtag/maps.
+
+POTENTIAL ISSUES
+----------------
+1. Responsive srcset files such as ABSA3-p-500.jpeg were never in the dump.
+   The full-size image (e.g. src/ABSA3.JPG) is present and used as <img src>.
+   Smaller srcset candidates 404; the browser falls back to the main src.
+
+2. CSS still names a few backgrounds that were never dumped:
+   GNPC.jpg, MSC.jpg, MSC2.webp, gree-check.svg,
+   57752651251486d4703bd476_mm.jpg
+   Paths now point at ../src/... so they no longer use the old images/ folder.
+
+3. webclip.jpg was never dumped. apple-touch-icon still points at src/webclip.jpg.
+
+4. style/normalize.css was an empty stub that occupied the canonical name.
+   It was replaced with the real 7772-byte stylesheet (also kept as normalize-2.css).
+   components-2.css / consarltd-2.css / normalize-3.css are tiny empty dump stubs
+   kept because they are different files (not overwritten).
+
+5. Service pages (commercial-construction.html, etc.) still load Webflow CSS/JS/images
+   from https://cdn.prod.website-files.com when online. Local copies of those CDN
+   files were unique-hashed into style/ and script/ but the HTML was left on HTTPS
+   so visual behaviour does not change.
+
+VALIDATION
+----------
+Broken HTML references (existing files): 0 for CSS/JS/page links and primary images
+Broken CSS references (files that never existed): 5 (listed in potential issues)
+Broken JS references: 0
+Broken HTML-to-HTML links among the 16 real pages: 0
+Old css/ js/ images/ paths on real pages: 0
+Unresolved/dynamic references: west-africa-map.js uses data-svg-src from HTML
+  (now src/West-Africa.svg) or fallback src/West-Africa.svg

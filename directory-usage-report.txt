@@ -1,0 +1,732 @@
+DIRECTORY USAGE REPORT
+======================
+
+Root: c:\Users\USER\OneDrive\Desktop\consarltd.com
+HTML files found (all): 271
+Site HTML files used as graph roots: 30
+Files marked used: 620
+
+USED DIRECTORIES (top-level under workspace, plus notable nested)
+----------------------------------------------------------------
+cdn.prod.website-files.com/
+Reason: referenced by consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html as https://cdn.prod.website-files.com/619e68c4e087ecd2ce2b8d7c/697bb59e113e7a1469a8ad10_Screensh | referenced by consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html as https://cdn.prod.website-files.com/619e68c4e087ecd2ce2b8d7c/697bb633ffa10058d0634ad2_Screensh | referenced by consarltd.com projects\cdn.jsdelivr.net\npm\@finsweet\attributes@2\dist\chunk-N2ZCN6XY.js as https://cdn.prod.website-files.com
+
+consarltd.com/
+Reason: referenced by consarltd.com contact\maps.gstatic.com\maps-api-v3\embed\js\66\1a\init_embed.js as /. | referenced by consarltd.com\index.html as images/ASX_WAF.png?v=1773804720 | referenced by consarltd.com\index.html as images/ASX_WAF.png?v=1773804720 161w
+
+consarltd.com about-us/
+Reason: referenced by consarltd.com about-us\consarltd.com\about-us.html as /about-us | referenced by consarltd.com about-us\consarltd.com\about-us.html as /css/components.css?v=1773804718 | referenced by consarltd.com about-us\consarltd.com\about-us.html as /css/consarltd.css?v=1778566215
+
+consarltd.com board-of-directors/
+Reason: referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as /board-of-directors | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as /contact | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as /css/components.css?v=1773804718
+
+consarltd.com careers/
+Reason: referenced by consarltd.com careers\consarltd.com\careers.html as /careers | referenced by consarltd.com careers\consarltd.com\careers.html as /css/components.css?v=1773804718 | referenced by consarltd.com careers\consarltd.com\careers.html as /css/consarltd.css?v=1778566215
+
+consarltd.com commercial-construction/
+Reason: referenced by consarltd.com commercial-construction\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html as /group-of-companies-old | referenced by consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html as /js/footer-year.js?v=1773804301
+
+consarltd.com contact/
+Reason: referenced by consarltd.com contact\consarltd.com\contact.html as /careers | referenced by consarltd.com contact\consarltd.com\contact.html as /contact | referenced by consarltd.com contact\consarltd.com\contact.html as /css/components.css?v=1773804718
+
+consarltd.com group-of-companies/
+Reason: referenced by consarltd.com group-of-companies\consarltd.com\css\consarltd.css as ../images/About-Us.webp | referenced by consarltd.com group-of-companies\consarltd.com\css\consarltd.css as ../images/Arrow.svg | referenced by consarltd.com group-of-companies\consarltd.com\css\consarltd.css as ../images/West-Africa.svg
+
+consarltd.com group-of-companies-old/
+Reason: referenced by consarltd.com group-of-companies-old\consarltd.com\css\consarltd.css as ../images/About-Us.webp | referenced by consarltd.com group-of-companies-old\consarltd.com\css\consarltd.css as ../images/Arrow.svg | referenced by consarltd.com group-of-companies-old\consarltd.com\css\consarltd.css as ../images/Careers.webp
+
+consarltd.com heavy-civil-construction/
+Reason: referenced by consarltd.com heavy-civil-construction\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html as /js/footer-year.js?v=1773804301 | referenced by consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html as /services
+
+consarltd.com institutional-construction/
+Reason: referenced by consarltd.com institutional-construction\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html as /js/footer-year.js?v=1773804301 | referenced by consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html as /services
+
+consarltd.com mining-services/
+Reason: referenced by consarltd.com mining-services\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com mining-services\consarltd.com\services\mining-services.html as /js/footer-year.js?v=1773804301 | referenced by consarltd.com mining-services\consarltd.com\services\mining-services.html as /services
+
+consarltd.com projects/
+Reason: referenced by consarltd.com projects\cdn.jsdelivr.net\npm\@finsweet\attributes@2\attributes.js as ./dist/chunk-ADKL4AJZ.js | referenced by consarltd.com projects\cdn.jsdelivr.net\npm\@finsweet\attributes@2\attributes.js as ./dist/chunk-CB6LZ537.js | referenced by consarltd.com projects\cdn.jsdelivr.net\npm\@finsweet\attributes@2\attributes.js as ./dist/chunk-GGDEANQW.js
+
+consarltd.com ready-mix-concrete/
+Reason: referenced by consarltd.com ready-mix-concrete\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html as /js/footer-year.js?v=1773804301 | referenced by consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html as /services
+
+consarltd.com residential-construction/
+Reason: referenced by consarltd.com residential-construction\cdn.prod.website-files.com\619e68c4e087ec21da2b8d63\js\consarltd.schunk.3ea1b9f05165fa6c.js as // | referenced by consarltd.com residential-construction\consarltd.com\services\residential-construction.html as /js/footer-year.js?v=1773804301 | referenced by consarltd.com residential-construction\consarltd.com\services\residential-construction.html as /services
+
+consarltd.com services/
+Reason: referenced by consarltd.com services\consarltd.com\css\consarltd.css as ../images/About-Us.webp | referenced by consarltd.com services\consarltd.com\css\consarltd.css as ../images/Arrow.svg | referenced by consarltd.com services\consarltd.com\css\consarltd.css as ../images/ahafo-aerial-shot.webp
+
+consarltd.com sustainability-and-safety/
+Reason: referenced by consarltd.com sustainability-and-safety\consarltd.com\css\consarltd.css as ../images/About-Us.webp | referenced by consarltd.com sustainability-and-safety\consarltd.com\css\consarltd.css as ../images/Arrow.svg | referenced by consarltd.com sustainability-and-safety\consarltd.com\css\consarltd.css as ../images/GNPC-RATC-Render-SUS.jpg
+
+css/
+Reason: referenced by consarltd.com about-us\consarltd.com\about-us.html as /css/normalize.css?v=1773804718 | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as /css/normalize.css?v=1773804718 | referenced by consarltd.com careers\consarltd.com\careers.html as /css/normalize.css?v=1773804718
+
+d3e54v103j8qbb.cloudfront.net/
+Reason: referenced by consarltd.com about-us\consarltd.com\about-us.html as https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=619e68c4e087ec21da2b8d63 | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=619e68c4e087ec21da2b8d63 | referenced by consarltd.com careers\consarltd.com\careers.html as https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=619e68c4e087ec21da2b8d63
+
+esm.sh/
+Reason: referenced by consarltd.com\js\west-africa-map.js as https://esm.sh/three@0.176.0
+
+fonts.googleapis.com/
+Reason: referenced by consarltd.com about-us\consarltd.com\about-us.html as https://fonts.googleapis.com | referenced by consarltd.com about-us\consarltd.com\about-us.html as https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&amp;family=Oswald:wght@200..700&amp;family=Space | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as https://fonts.googleapis.com
+
+uploads-ssl.webflow.com/
+Reason: referenced by consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html as https://uploads-ssl.webflow.com/619e68c4e087ecd2ce2b8d7c/620d9b1a5653b78043b7d65d_Cover.jpeg | referenced by consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html as https://uploads-ssl.webflow.com/619e68c4e087ecd2ce2b8d7c/620da10620e69a1a4a371950_MPS%20Tem | referenced by consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html as https://uploads-ssl.webflow.com/619e68c4e087ecd2ce2b8d7c/668d50b4bb55e6c027dd7a13_Legon
+
+www.googletagmanager.com/
+Reason: referenced by consarltd.com about-us\consarltd.com\about-us.html as https://www.googletagmanager.com/gtag/js?id=G-5CDQRSBWP3 | referenced by consarltd.com board-of-directors\consarltd.com\board-of-directors.html as https://www.googletagmanager.com/gtag/js?id=G-5CDQRSBWP3 | referenced by consarltd.com careers\consarltd.com\careers.html as https://www.googletagmanager.com/gtag/js?id=G-5CDQRSBWP3
+
+USED NESTED RESOURCE FOLDERS (second-level)
+------------------------------------------
+  [USED] cdn.prod.website-files.com\619e68c4e087ecd2ce2b8d7c
+
+  [USED] consarltd.com\css
+  [USED] consarltd.com\images
+  [USED] consarltd.com\js
+
+  [UNUSED] consarltd.com about-us\cdn.prod.website-files.com
+  [USED] consarltd.com about-us\consarltd.com
+  [USED] consarltd.com about-us\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com about-us\fonts.googleapis.com
+  [USED] consarltd.com about-us\fonts.gstatic.com
+  [USED] consarltd.com about-us\snap.licdn.com
+  [UNUSED] consarltd.com about-us\uploads-ssl.webflow.com
+  [USED] consarltd.com about-us\www.googletagmanager.com
+
+  [UNUSED] consarltd.com board-of-directors\_DataURI
+  [UNUSED] consarltd.com board-of-directors\cdn.jsdelivr.net
+  [UNUSED] consarltd.com board-of-directors\cdn.prod.website-files.com
+  [USED] consarltd.com board-of-directors\consarltd.com
+  [USED] consarltd.com board-of-directors\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com board-of-directors\fonts.googleapis.com
+  [USED] consarltd.com board-of-directors\fonts.gstatic.com
+  [UNUSED] consarltd.com board-of-directors\maps.googleapis.com
+  [UNUSED] consarltd.com board-of-directors\maps.gstatic.com
+  [UNUSED] consarltd.com board-of-directors\places.googleapis.com
+  [USED] consarltd.com board-of-directors\snap.licdn.com
+  [UNUSED] consarltd.com board-of-directors\ucarecdn.com
+  [UNUSED] consarltd.com board-of-directors\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com board-of-directors\www.google.com
+  [USED] consarltd.com board-of-directors\www.googletagmanager.com
+
+  [UNUSED] consarltd.com careers\_DataURI
+  [UNUSED] consarltd.com careers\cdn.jsdelivr.net
+  [UNUSED] consarltd.com careers\cdn.prod.website-files.com
+  [USED] consarltd.com careers\consarltd.com
+  [USED] consarltd.com careers\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com careers\fonts.googleapis.com
+  [USED] consarltd.com careers\fonts.gstatic.com
+  [USED] consarltd.com careers\snap.licdn.com
+  [USED] consarltd.com careers\ucarecdn.com
+  [UNUSED] consarltd.com careers\uploads-ssl.webflow.com
+  [USED] consarltd.com careers\www.googletagmanager.com
+
+  [UNUSED] consarltd.com commercial-construction\_DataURI
+  [UNUSED] consarltd.com commercial-construction\cdn.jsdelivr.net
+  [USED] consarltd.com commercial-construction\cdn.prod.website-files.com
+  [USED] consarltd.com commercial-construction\consarltd.com
+  [USED] consarltd.com commercial-construction\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com commercial-construction\fonts.googleapis.com
+  [USED] consarltd.com commercial-construction\fonts.gstatic.com
+  [UNUSED] consarltd.com commercial-construction\maps.googleapis.com
+  [UNUSED] consarltd.com commercial-construction\maps.gstatic.com
+  [UNUSED] consarltd.com commercial-construction\places.googleapis.com
+  [USED] consarltd.com commercial-construction\snap.licdn.com
+  [UNUSED] consarltd.com commercial-construction\ucarecdn.com
+  [USED] consarltd.com commercial-construction\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com commercial-construction\www.google.com
+  [USED] consarltd.com commercial-construction\www.googletagmanager.com
+
+  [UNUSED] consarltd.com contact\_DataURI
+  [UNUSED] consarltd.com contact\cdn.jsdelivr.net
+  [UNUSED] consarltd.com contact\cdn.prod.website-files.com
+  [USED] consarltd.com contact\consarltd.com
+  [USED] consarltd.com contact\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com contact\fonts.googleapis.com
+  [USED] consarltd.com contact\fonts.gstatic.com
+  [USED] consarltd.com contact\maps.googleapis.com
+  [USED] consarltd.com contact\maps.gstatic.com
+  [UNUSED] consarltd.com contact\places.googleapis.com
+  [USED] consarltd.com contact\snap.licdn.com
+  [UNUSED] consarltd.com contact\ucarecdn.com
+  [UNUSED] consarltd.com contact\uploads-ssl.webflow.com
+  [USED] consarltd.com contact\www.google.com
+  [USED] consarltd.com contact\www.googletagmanager.com
+
+  [UNUSED] consarltd.com group-of-companies\cdn.prod.website-files.com
+  [USED] consarltd.com group-of-companies\consarltd.com
+  [USED] consarltd.com group-of-companies\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com group-of-companies\fonts.googleapis.com
+  [USED] consarltd.com group-of-companies\fonts.gstatic.com
+  [USED] consarltd.com group-of-companies\snap.licdn.com
+  [UNUSED] consarltd.com group-of-companies\uploads-ssl.webflow.com
+  [USED] consarltd.com group-of-companies\www.googletagmanager.com
+
+  [UNUSED] consarltd.com group-of-companies-old\_DataURI
+  [UNUSED] consarltd.com group-of-companies-old\cdn.jsdelivr.net
+  [UNUSED] consarltd.com group-of-companies-old\cdn.prod.website-files.com
+  [USED] consarltd.com group-of-companies-old\consarltd.com
+  [USED] consarltd.com group-of-companies-old\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com group-of-companies-old\fonts.googleapis.com
+  [USED] consarltd.com group-of-companies-old\fonts.gstatic.com
+  [UNUSED] consarltd.com group-of-companies-old\maps.googleapis.com
+  [UNUSED] consarltd.com group-of-companies-old\maps.gstatic.com
+  [UNUSED] consarltd.com group-of-companies-old\places.googleapis.com
+  [USED] consarltd.com group-of-companies-old\snap.licdn.com
+  [UNUSED] consarltd.com group-of-companies-old\ucarecdn.com
+  [UNUSED] consarltd.com group-of-companies-old\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com group-of-companies-old\www.google.com
+  [USED] consarltd.com group-of-companies-old\www.googletagmanager.com
+
+  [UNUSED] consarltd.com heavy-civil-construction\_DataURI
+  [UNUSED] consarltd.com heavy-civil-construction\cdn.jsdelivr.net
+  [USED] consarltd.com heavy-civil-construction\cdn.prod.website-files.com
+  [USED] consarltd.com heavy-civil-construction\consarltd.com
+  [USED] consarltd.com heavy-civil-construction\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com heavy-civil-construction\fonts.googleapis.com
+  [USED] consarltd.com heavy-civil-construction\fonts.gstatic.com
+  [UNUSED] consarltd.com heavy-civil-construction\maps.googleapis.com
+  [UNUSED] consarltd.com heavy-civil-construction\maps.gstatic.com
+  [UNUSED] consarltd.com heavy-civil-construction\places.googleapis.com
+  [USED] consarltd.com heavy-civil-construction\snap.licdn.com
+  [UNUSED] consarltd.com heavy-civil-construction\ucarecdn.com
+  [USED] consarltd.com heavy-civil-construction\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com heavy-civil-construction\www.google.com
+  [USED] consarltd.com heavy-civil-construction\www.googletagmanager.com
+
+  [UNUSED] consarltd.com institutional-construction\_DataURI
+  [UNUSED] consarltd.com institutional-construction\cdn.jsdelivr.net
+  [USED] consarltd.com institutional-construction\cdn.prod.website-files.com
+  [USED] consarltd.com institutional-construction\consarltd.com
+  [USED] consarltd.com institutional-construction\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com institutional-construction\fonts.googleapis.com
+  [USED] consarltd.com institutional-construction\fonts.gstatic.com
+  [UNUSED] consarltd.com institutional-construction\maps.googleapis.com
+  [UNUSED] consarltd.com institutional-construction\maps.gstatic.com
+  [UNUSED] consarltd.com institutional-construction\places.googleapis.com
+  [USED] consarltd.com institutional-construction\snap.licdn.com
+  [UNUSED] consarltd.com institutional-construction\ucarecdn.com
+  [USED] consarltd.com institutional-construction\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com institutional-construction\www.google.com
+  [USED] consarltd.com institutional-construction\www.googletagmanager.com
+
+  [UNUSED] consarltd.com mining-services\_DataURI
+  [UNUSED] consarltd.com mining-services\cdn.jsdelivr.net
+  [USED] consarltd.com mining-services\cdn.prod.website-files.com
+  [USED] consarltd.com mining-services\consarltd.com
+  [USED] consarltd.com mining-services\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com mining-services\fonts.googleapis.com
+  [USED] consarltd.com mining-services\fonts.gstatic.com
+  [UNUSED] consarltd.com mining-services\maps.googleapis.com
+  [UNUSED] consarltd.com mining-services\maps.gstatic.com
+  [UNUSED] consarltd.com mining-services\places.googleapis.com
+  [USED] consarltd.com mining-services\snap.licdn.com
+  [UNUSED] consarltd.com mining-services\ucarecdn.com
+  [USED] consarltd.com mining-services\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com mining-services\www.google.com
+  [USED] consarltd.com mining-services\www.googletagmanager.com
+
+  [UNUSED] consarltd.com projects\_DataURI
+  [USED] consarltd.com projects\cdn.jsdelivr.net
+  [USED] consarltd.com projects\cdn.prod.website-files.com
+  [USED] consarltd.com projects\consarltd.com
+  [USED] consarltd.com projects\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com projects\fonts.googleapis.com
+  [USED] consarltd.com projects\fonts.gstatic.com
+  [USED] consarltd.com projects\snap.licdn.com
+  [UNUSED] consarltd.com projects\uploads-ssl.webflow.com
+  [USED] consarltd.com projects\www.googletagmanager.com
+
+  [UNUSED] consarltd.com ready-mix-concrete\_DataURI
+  [UNUSED] consarltd.com ready-mix-concrete\cdn.jsdelivr.net
+  [USED] consarltd.com ready-mix-concrete\cdn.prod.website-files.com
+  [USED] consarltd.com ready-mix-concrete\consarltd.com
+  [USED] consarltd.com ready-mix-concrete\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com ready-mix-concrete\fonts.googleapis.com
+  [USED] consarltd.com ready-mix-concrete\fonts.gstatic.com
+  [UNUSED] consarltd.com ready-mix-concrete\maps.googleapis.com
+  [UNUSED] consarltd.com ready-mix-concrete\maps.gstatic.com
+  [UNUSED] consarltd.com ready-mix-concrete\places.googleapis.com
+  [USED] consarltd.com ready-mix-concrete\snap.licdn.com
+  [UNUSED] consarltd.com ready-mix-concrete\ucarecdn.com
+  [UNUSED] consarltd.com ready-mix-concrete\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com ready-mix-concrete\www.google.com
+  [USED] consarltd.com ready-mix-concrete\www.googletagmanager.com
+
+  [UNUSED] consarltd.com residential-construction\_DataURI
+  [UNUSED] consarltd.com residential-construction\cdn.jsdelivr.net
+  [USED] consarltd.com residential-construction\cdn.prod.website-files.com
+  [USED] consarltd.com residential-construction\consarltd.com
+  [USED] consarltd.com residential-construction\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com residential-construction\fonts.googleapis.com
+  [USED] consarltd.com residential-construction\fonts.gstatic.com
+  [UNUSED] consarltd.com residential-construction\maps.googleapis.com
+  [UNUSED] consarltd.com residential-construction\maps.gstatic.com
+  [UNUSED] consarltd.com residential-construction\places.googleapis.com
+  [USED] consarltd.com residential-construction\snap.licdn.com
+  [UNUSED] consarltd.com residential-construction\ucarecdn.com
+  [UNUSED] consarltd.com residential-construction\uploads-ssl.webflow.com
+  [UNUSED] consarltd.com residential-construction\www.google.com
+  [USED] consarltd.com residential-construction\www.googletagmanager.com
+
+  [USED] consarltd.com services\cdn.prod.website-files.com
+  [USED] consarltd.com services\consarltd.com
+  [USED] consarltd.com services\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com services\fonts.googleapis.com
+  [USED] consarltd.com services\fonts.gstatic.com
+  [USED] consarltd.com services\snap.licdn.com
+  [USED] consarltd.com services\uploads-ssl.webflow.com
+  [USED] consarltd.com services\www.googletagmanager.com
+
+  [UNUSED] consarltd.com sustainability-and-safety\_DataURI
+  [UNUSED] consarltd.com sustainability-and-safety\cdn.jsdelivr.net
+  [UNUSED] consarltd.com sustainability-and-safety\cdn.prod.website-files.com
+  [USED] consarltd.com sustainability-and-safety\consarltd.com
+  [USED] consarltd.com sustainability-and-safety\d3e54v103j8qbb.cloudfront.net
+  [USED] consarltd.com sustainability-and-safety\fonts.googleapis.com
+  [USED] consarltd.com sustainability-and-safety\fonts.gstatic.com
+  [USED] consarltd.com sustainability-and-safety\snap.licdn.com
+  [UNUSED] consarltd.com sustainability-and-safety\uploads-ssl.webflow.com
+  [USED] consarltd.com sustainability-and-safety\www.googletagmanager.com
+
+
+  [USED] d3e54v103j8qbb.cloudfront.net\js
+
+
+
+  [USED] uploads-ssl.webflow.com\619e68c4e087ecd2ce2b8d7c
+
+  [USED] www.googletagmanager.com\gtag
+
+UNCERTAIN DIRECTORIES
+---------------------
+consarltd.com commercial-construction\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com commercial-construction\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com heavy-civil-construction\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com heavy-civil-construction\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com institutional-construction\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com institutional-construction\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com mining-services\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com mining-services\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com ready-mix-concrete\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com ready-mix-concrete\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com residential-construction\consarltd.com\css/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+consarltd.com residential-construction\consarltd.com\images/
+Reason: UNCERTAIN/PROTECTED — application structure directory (css/js/images/etc.) under a used parent; preserved
+
+UNUSED DIRECTORIES (top-most candidates for deletion)
+----------------------------------------------------
+consarltd.com about-us\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com about-us\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com board-of-directors\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com board-of-directors\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com board-of-directors\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (83 files on disk).
+
+consarltd.com board-of-directors\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com board-of-directors\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com board-of-directors\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com board-of-directors\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com board-of-directors\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com board-of-directors\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com board-of-directors\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com board-of-directors\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com careers\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com careers\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com careers\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (83 files on disk).
+
+consarltd.com careers\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com commercial-construction\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com commercial-construction\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com commercial-construction\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com commercial-construction\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com commercial-construction\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com commercial-construction\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com commercial-construction\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com commercial-construction\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com commercial-construction\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com contact\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (3 files on disk).
+
+consarltd.com contact\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com contact\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (83 files on disk).
+
+consarltd.com contact\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com contact\maps.googleapis.com\$rpc/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (3 files on disk).
+
+consarltd.com contact\maps.googleapis.com\maps\api\mapsjs/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com contact\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com contact\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com contact\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com group-of-companies-old\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com group-of-companies-old\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com group-of-companies-old\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (83 files on disk).
+
+consarltd.com group-of-companies-old\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com group-of-companies-old\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com group-of-companies-old\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com group-of-companies-old\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com group-of-companies-old\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com group-of-companies-old\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com group-of-companies-old\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com group-of-companies-old\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com group-of-companies\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com group-of-companies\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com heavy-civil-construction\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com heavy-civil-construction\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com heavy-civil-construction\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com heavy-civil-construction\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com heavy-civil-construction\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com heavy-civil-construction\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com heavy-civil-construction\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com heavy-civil-construction\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com heavy-civil-construction\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com institutional-construction\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com institutional-construction\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com institutional-construction\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com institutional-construction\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com institutional-construction\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com institutional-construction\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com institutional-construction\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com institutional-construction\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com institutional-construction\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com mining-services\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com mining-services\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com mining-services\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com mining-services\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com mining-services\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com mining-services\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com mining-services\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com mining-services\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com mining-services\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com projects\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com projects\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com ready-mix-concrete\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com ready-mix-concrete\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com ready-mix-concrete\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com ready-mix-concrete\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com ready-mix-concrete\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com ready-mix-concrete\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com ready-mix-concrete\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com ready-mix-concrete\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com ready-mix-concrete\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com ready-mix-concrete\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com residential-construction\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (30 files on disk).
+
+consarltd.com residential-construction\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com residential-construction\fonts.gstatic.com\s\googlesanstext/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com residential-construction\fonts.gstatic.com\s\roboto/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com residential-construction\maps.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (17 files on disk).
+
+consarltd.com residential-construction\maps.gstatic.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com residential-construction\places.googleapis.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com residential-construction\ucarecdn.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (1 files on disk).
+
+consarltd.com residential-construction\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+consarltd.com residential-construction\www.google.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (18 files on disk).
+
+consarltd.com sustainability-and-safety\_DataURI/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (2 files on disk).
+
+consarltd.com sustainability-and-safety\cdn.jsdelivr.net/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (20 files on disk).
+
+consarltd.com sustainability-and-safety\cdn.prod.website-files.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (83 files on disk).
+
+consarltd.com sustainability-and-safety\uploads-ssl.webflow.com/
+Reason: no HTML/CSS/JS dependency chain references any file inside this directory (4 files on disk).
+
+SITE HTML ROOTS
+---------------
+consarltd.com about-us\consarltd.com\about-us.html
+consarltd.com board-of-directors\consarltd.com\board-of-directors.html
+consarltd.com board-of-directors\consarltd.com\contact.html
+consarltd.com careers\consarltd.com\careers.html
+consarltd.com commercial-construction\consarltd.com\group-of-companies-old.html
+consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html
+consarltd.com contact\consarltd.com\careers.html
+consarltd.com contact\consarltd.com\contact.html
+consarltd.com contact\consarltd.com\projects.html
+consarltd.com contact\consarltd.com\sustainability-and-safety.html
+consarltd.com group-of-companies-old\consarltd.com\board-of-directors.html
+consarltd.com group-of-companies-old\consarltd.com\group-of-companies-old.html
+consarltd.com group-of-companies\consarltd.com\group-of-companies.html
+consarltd.com heavy-civil-construction\consarltd.com\services\commercial-construction.html
+consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html
+consarltd.com institutional-construction\consarltd.com\services\heavy-civil-construction.html
+consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html
+consarltd.com mining-services\consarltd.com\services\institutional-construction.html
+consarltd.com mining-services\consarltd.com\services\mining-services.html
+consarltd.com projects\consarltd.com\group-of-companies.html
+consarltd.com projects\consarltd.com\projects.html
+consarltd.com projects\consarltd.com\services.html
+consarltd.com ready-mix-concrete\consarltd.com\services\mining-services.html
+consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html
+consarltd.com residential-construction\consarltd.com\services\ready-mix-concrete.html
+consarltd.com residential-construction\consarltd.com\services\residential-construction.html
+consarltd.com services\consarltd.com\about-us.html
+consarltd.com services\consarltd.com\services.html
+consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html
+consarltd.com\index.html
+
+Missing resolved refs (first 40): 40 of 2781
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /images/webclip.jpg?v=1773804720
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /about-us
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /board-of-directors
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /group-of-companies
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /services
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /group-of-companies
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /projects
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /careers
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /contact
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /images/Safety-p-500.jpeg?v=1773804722
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /about-us
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /services
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /projects
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /blog
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /careers
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /contact
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /board-of-directors
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://www.google.com/maps/dir//Consar+Ltd+Accra+Ghana/@5.628824,-0.149584,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0xfdf9b4b4ae6f64b:0xc0333631138fe690!2m2!1d-0.149584!2d5.628824?entry=tt
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://www.youtube.com/channel/UCta8YAG1bYya5nBsqOZouqQ
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://www.linkedin.com/company/consar-ltd/
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://www.instagram.com/consar_group
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://px.ads.linkedin.com/collect/?pid=8274290&amp;fmt=gif
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: https://www.tribalhousestudios.com/
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /terms-and-conditions
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /privacy-policy
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /images/webclip.jpg?v=1773804720
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /about-us
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /board-of-directors
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /group-of-companies
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /services
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /group-of-companies
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /projects
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /careers
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /contact
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /images/Safety-p-500.jpeg?v=1773804722 500w, /images/Safety.webp?v=1773804720 1280w
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /about-us
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /services
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /projects
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /blog
+  from consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html: /careers
+
+DELETION OUTCOME
+================
+HTML files scanned: 271
+Used directories (including nested): 351
+Unused top-most directories found: 101
+Directories deleted: 97
+Directories preserved because of uncertainty: 16
+  - 4 contact-page Google Maps dynamic-load folders
+  - 12 empty css/images folders under service-page dumps (protected names)
+
+Post-deletion remaining directories: 371
+Site HTML pages still present: 30
+Used CSS/JS/image files that were in the dependency chain still exist.

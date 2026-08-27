@@ -1,0 +1,209 @@
+STATIC HTML FILE:// LINK AUDIT — FINAL REPORT
+=============================================
+
+HTML FILES SCANNED:
+79
+
+INTERNAL PAGE LINKS SCANNED:
+699
+
+CORRECT LINKS:
+651
+
+INCORRECT LINKS FIXED:
+48
+
+EXTERNAL SAME-SITE LINKS CONVERTED TO LOCAL:
+0
+
+BROKEN LINKS:
+0
+
+AMBIGUOUS LINKS:
+176
+
+------------------------------------------------------------------------------
+THIS PASS
+------------------------------------------------------------------------------
+
+Header, footer, cards, breadcrumbs, and buttons on the 16 real site pages
+already pointed at local .html files with correct relative paths (verified:
+file exists + title/H1 match the intended page; no stub destinations).
+
+The only remaining extensionless local routes were:
+
+  /blog
+  /terms-and-conditions
+  /privacy-policy
+
+No blog.html, terms-and-conditions.html, or privacy-policy.html exists
+anywhere in the project. Those 48 links were converted to live-site URLs
+so Windows file:// no longer looks for a folder named "blog" etc.
+
+------------------------------------------------------------------------------
+REAL SITE PAGES (identity from <title> and <h1>, not filename)
+------------------------------------------------------------------------------
+
+  Home
+    consarltd.com\index.html
+    title: Consar Ltd | Building & Civil Engineering Contractors...
+    h1: Experience Matters
+
+  About Us
+    consarltd.com about-us\consarltd.com\about-us.html
+    title: About Consar Ltd | Accra Construction & Engineering Company
+    h1: Our Reputation Greatest Asset
+
+  Board of Directors
+    consarltd.com board-of-directors\consarltd.com\board-of-directors.html
+    title: Board of Directors | Consar Ltd Leadership
+
+  Careers
+    consarltd.com careers\consarltd.com\careers.html
+    title: Careers at Consar Ltd | Construction Opportunities in Ghana
+
+  Contact
+    consarltd.com contact\consarltd.com\contact.html
+    title: Contact Consar Ltd | Accra Headquarters & West Africa Enquiries
+
+  Group of Companies (current)
+    consarltd.com group-of-companies\consarltd.com\group-of-companies.html
+    title: Consar Group Companies | Construction & Engineering Across West Africa
+    h1: Consar Group Of Companies
+
+  Group of Companies (archive)
+    consarltd.com group-of-companies-old\consarltd.com\group-of-companies-old.html
+    title: Consar Group Companies...
+    h1: Group Of Companies
+
+  Services
+    consarltd.com services\consarltd.com\services.html
+    title: Construction, Civil Engineering & Mining Services | Consar Ltd
+
+  Projects
+    consarltd.com projects\consarltd.com\projects.html
+    title: Construction Projects in Ghana & West Africa | Consar Ltd
+
+  Sustainability
+    consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html
+    title: Sustainability & Safety | Responsible Construction at Consar Ltd
+
+  Commercial Construction
+    consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html
+
+  Heavy Civil Construction
+    consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html
+
+  Institutional Construction
+    consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html
+
+  Mining Services
+    consarltd.com mining-services\consarltd.com\services\mining-services.html
+
+  Ready Mix Concrete
+    consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html
+
+  Residential Construction
+    consarltd.com residential-construction\consarltd.com\services\residential-construction.html
+
+Stub files named about-us.html / contact.html / etc. inside other dumps
+contain only "No Content: https://consarltd.com/..." and are never used
+as link targets.
+
+------------------------------------------------------------------------------
+CHANGED LINKS (this pass) — pattern repeated on all 16 real pages
+------------------------------------------------------------------------------
+
+Source:
+consarltd.com\index.html
+(and the other 15 real site HTML files)
+
+Link text:
+News & Event
+
+Before:
+/blog
+
+After:
+https://consarltd.com/blog
+
+Verified target:
+(none local — no blog.html in the project)
+
+Reason:
+No local News/Blog HTML exists. Left as the live website URL so file://
+does not try to open C:\...\consarltd.com\blog.
+
+---
+
+Source:
+all 16 real site HTML files
+
+Link text:
+Terms & Conditions
+
+Before:
+/terms-and-conditions
+
+After:
+https://consarltd.com/terms-and-conditions
+
+Verified target:
+(none local)
+
+Reason:
+No local terms-and-conditions.html exists. Live-site URL is the genuine
+destination.
+
+---
+
+Source:
+all 16 real site HTML files
+
+Link text:
+Privacy Policy
+
+Before:
+/privacy-policy
+
+After:
+https://consarltd.com/privacy-policy
+
+Verified target:
+(none local)
+
+Reason:
+No local privacy-policy.html exists. Live-site URL is the genuine
+destination.
+
+------------------------------------------------------------------------------
+AMBIGUOUS (unchanged this pass)
+------------------------------------------------------------------------------
+
+176 "View Project" cards previously pointed at
+https://consarltd.com/projects/<slug>. No local project-detail HTML exists.
+They already go to the local Projects listing page. That listing is the
+only local Projects HTML; it is not the individual project page.
+
+------------------------------------------------------------------------------
+SECOND PASS
+------------------------------------------------------------------------------
+
+  href="/about-us" "/contact" "/services" "/projects" "/careers"
+    → none on real site pages
+
+  href="/blog" "/terms-and-conditions" "/privacy-policy"
+    → none remaining
+
+  leftover https://consarltd.com in <a href> on real pages
+    → only blog, terms-and-conditions, privacy-policy (no local files)
+
+  stub files still contain "No Content: https://consarltd.com/..."
+    → those are not navigation links
+
+  JavaScript location.href to local routes
+    → none in site JS
+
+  All 651 remaining internal .html hrefs:
+    resolve from the source file → file exists → title matches intended page
+    0 missing, 0 stubs, 0 wrong-page hits

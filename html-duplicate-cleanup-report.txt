@@ -1,0 +1,528 @@
+HTML DUPLICATE CLEANUP REPORT
+Generated: 2026-08-24 22:31:29
+Root: c:\Users\USER\OneDrive\Desktop\consarltd.com
+Algorithm: SHA-256 + full byte comparison
+
+Scope: directories whose names start with 'consarltd.com'; HTML/HTM files inside each nested consarltd.com folder (and inside the main consarltd.com folder). CSS/JS/images/fonts were not scanned for deletion.
+
+Total HTML files scanned: 122
+Unique content hashes: 30
+Duplicate groups: 14
+Duplicate HTML files to delete: 92
+HTML files to preserve (unique contents): 30
+
+Duplicate Group 1
+-----------------
+Kept:
+consarltd.com board-of-directors\consarltd.com\contact.html
+
+Deleted:
+consarltd.com commercial-construction\consarltd.com\contact.html
+consarltd.com group-of-companies-old\consarltd.com\contact.html
+consarltd.com heavy-civil-construction\consarltd.com\contact.html
+consarltd.com institutional-construction\consarltd.com\contact.html
+consarltd.com mining-services\consarltd.com\contact.html
+consarltd.com ready-mix-concrete\consarltd.com\contact.html
+consarltd.com residential-construction\consarltd.com\contact.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 41 bytes
+Content preview: No Content: https://consarltd.com/contact
+SHA-256:
+248AEC2E0C0E35344CCE7FBB571AC60A895A270D98E179CC7C4F620C3628ABD5
+
+Duplicate Group 2
+-----------------
+Kept:
+consarltd.com commercial-construction\consarltd.com\group-of-companies-old.html
+
+Deleted:
+consarltd.com heavy-civil-construction\consarltd.com\group-of-companies-old.html
+consarltd.com institutional-construction\consarltd.com\group-of-companies-old.html
+consarltd.com mining-services\consarltd.com\group-of-companies-old.html
+consarltd.com ready-mix-concrete\consarltd.com\group-of-companies-old.html
+consarltd.com residential-construction\consarltd.com\group-of-companies-old.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 56 bytes
+Content preview: No Content: https://consarltd.com/group-of-companies-old
+SHA-256:
+77894521DE3583FB5D7C71B4B5ED3B453CD09E3CE5063C168C70EFAF6C9D977C
+
+Duplicate Group 3
+-----------------
+Kept:
+consarltd.com contact\consarltd.com\careers.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\careers.html
+consarltd.com commercial-construction\consarltd.com\careers.html
+consarltd.com group-of-companies-old\consarltd.com\careers.html
+consarltd.com heavy-civil-construction\consarltd.com\careers.html
+consarltd.com institutional-construction\consarltd.com\careers.html
+consarltd.com mining-services\consarltd.com\careers.html
+consarltd.com ready-mix-concrete\consarltd.com\careers.html
+consarltd.com residential-construction\consarltd.com\careers.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 41 bytes
+Content preview: No Content: https://consarltd.com/careers
+SHA-256:
+8EBDE26C127961F4A20097742792222D0ACCC6594F40B9587EFF35D58F2C7B3A
+
+Duplicate Group 4
+-----------------
+Kept:
+consarltd.com contact\consarltd.com\projects.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\projects.html
+consarltd.com careers\consarltd.com\projects.html
+consarltd.com commercial-construction\consarltd.com\projects.html
+consarltd.com group-of-companies-old\consarltd.com\projects.html
+consarltd.com heavy-civil-construction\consarltd.com\projects.html
+consarltd.com institutional-construction\consarltd.com\projects.html
+consarltd.com mining-services\consarltd.com\projects.html
+consarltd.com ready-mix-concrete\consarltd.com\projects.html
+consarltd.com residential-construction\consarltd.com\projects.html
+consarltd.com sustainability-and-safety\consarltd.com\projects.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 42 bytes
+Content preview: No Content: https://consarltd.com/projects
+SHA-256:
+DF5A37445CA4EAF4422D63FF966070AA969CB6A72AAD9EF3CD428B2BD7A75800
+
+Duplicate Group 5
+-----------------
+Kept:
+consarltd.com contact\consarltd.com\sustainability-and-safety.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\sustainability-and-safety.html
+consarltd.com careers\consarltd.com\sustainability-and-safety.html
+consarltd.com commercial-construction\consarltd.com\sustainability-and-safety.html
+consarltd.com group-of-companies-old\consarltd.com\sustainability-and-safety.html
+consarltd.com heavy-civil-construction\consarltd.com\sustainability-and-safety.html
+consarltd.com institutional-construction\consarltd.com\sustainability-and-safety.html
+consarltd.com mining-services\consarltd.com\sustainability-and-safety.html
+consarltd.com ready-mix-concrete\consarltd.com\sustainability-and-safety.html
+consarltd.com residential-construction\consarltd.com\sustainability-and-safety.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 59 bytes
+Content preview: No Content: https://consarltd.com/sustainability-and-safety
+SHA-256:
+ED24C8E3240F4C6AC38D2360B67A8AB466028015CD5E15263539D418B2802F95
+
+Duplicate Group 6
+-----------------
+Kept:
+consarltd.com group-of-companies-old\consarltd.com\board-of-directors.html
+
+Deleted:
+consarltd.com commercial-construction\consarltd.com\board-of-directors.html
+consarltd.com heavy-civil-construction\consarltd.com\board-of-directors.html
+consarltd.com institutional-construction\consarltd.com\board-of-directors.html
+consarltd.com mining-services\consarltd.com\board-of-directors.html
+consarltd.com ready-mix-concrete\consarltd.com\board-of-directors.html
+consarltd.com residential-construction\consarltd.com\board-of-directors.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 52 bytes
+Content preview: No Content: https://consarltd.com/board-of-directors
+SHA-256:
+15444E745E42FC34D1E09B93AB89B40F89D0AA807B286223763BC37577FEF13B
+
+Duplicate Group 7
+-----------------
+Kept:
+consarltd.com heavy-civil-construction\consarltd.com\services\commercial-construction.html
+
+Deleted:
+consarltd.com institutional-construction\consarltd.com\services\commercial-construction.html
+consarltd.com mining-services\consarltd.com\services\commercial-construction.html
+consarltd.com ready-mix-concrete\consarltd.com\services\commercial-construction.html
+consarltd.com residential-construction\consarltd.com\services\commercial-construction.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 66 bytes
+Content preview: No Content: https://consarltd.com/services/commercial-construction
+SHA-256:
+555B52F61220ED0DF9D81BEDD4AEEF31241601C93A1B12D5CF0BB36026B809C2
+
+Duplicate Group 8
+-----------------
+Kept:
+consarltd.com institutional-construction\consarltd.com\services\heavy-civil-construction.html
+
+Deleted:
+consarltd.com mining-services\consarltd.com\services\heavy-civil-construction.html
+consarltd.com ready-mix-concrete\consarltd.com\services\heavy-civil-construction.html
+consarltd.com residential-construction\consarltd.com\services\heavy-civil-construction.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 67 bytes
+Content preview: No Content: https://consarltd.com/services/heavy-civil-construction
+SHA-256:
+7D5EF4B476231ED8A3CBC9CE34DD544CDF0EACFC0B8F0754F6C595162BD6A6A7
+
+Duplicate Group 9
+-----------------
+Kept:
+consarltd.com mining-services\consarltd.com\services\institutional-construction.html
+
+Deleted:
+consarltd.com ready-mix-concrete\consarltd.com\services\institutional-construction.html
+consarltd.com residential-construction\consarltd.com\services\institutional-construction.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 69 bytes
+Content preview: No Content: https://consarltd.com/services/institutional-construction
+SHA-256:
+CC9E5DC566A0C359DE9B18F1E585488EC4B34323FB249A332DF5DE1F2D136954
+
+Duplicate Group 10
+-----------------
+Kept:
+consarltd.com projects\consarltd.com\group-of-companies.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\group-of-companies.html
+consarltd.com careers\consarltd.com\group-of-companies.html
+consarltd.com commercial-construction\consarltd.com\group-of-companies.html
+consarltd.com contact\consarltd.com\group-of-companies.html
+consarltd.com group-of-companies-old\consarltd.com\group-of-companies.html
+consarltd.com heavy-civil-construction\consarltd.com\group-of-companies.html
+consarltd.com institutional-construction\consarltd.com\group-of-companies.html
+consarltd.com mining-services\consarltd.com\group-of-companies.html
+consarltd.com ready-mix-concrete\consarltd.com\group-of-companies.html
+consarltd.com residential-construction\consarltd.com\group-of-companies.html
+consarltd.com sustainability-and-safety\consarltd.com\group-of-companies.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 52 bytes
+Content preview: No Content: https://consarltd.com/group-of-companies
+SHA-256:
+22C267CF2B4DAD24468455705C685706B3059CF2A405702179F59856A6FCBF37
+
+Duplicate Group 11
+-----------------
+Kept:
+consarltd.com projects\consarltd.com\services.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\services.html
+consarltd.com careers\consarltd.com\services.html
+consarltd.com commercial-construction\consarltd.com\services.html
+consarltd.com contact\consarltd.com\services.html
+consarltd.com group-of-companies-old\consarltd.com\services.html
+consarltd.com group-of-companies\consarltd.com\services.html
+consarltd.com heavy-civil-construction\consarltd.com\services.html
+consarltd.com institutional-construction\consarltd.com\services.html
+consarltd.com mining-services\consarltd.com\services.html
+consarltd.com ready-mix-concrete\consarltd.com\services.html
+consarltd.com residential-construction\consarltd.com\services.html
+consarltd.com sustainability-and-safety\consarltd.com\services.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 42 bytes
+Content preview: No Content: https://consarltd.com/services
+SHA-256:
+CBE3201040077D0EAA113D7C41AA019765313A58449B2C23B8B1EF812AB42E1C
+
+Duplicate Group 12
+-----------------
+Kept:
+consarltd.com ready-mix-concrete\consarltd.com\services\mining-services.html
+
+Deleted:
+consarltd.com residential-construction\consarltd.com\services\mining-services.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 58 bytes
+Content preview: No Content: https://consarltd.com/services/mining-services
+SHA-256:
+3FE59F8D6991510A155ADFEB71F01CC3C2EC5814D3E7C24F225709578A8F8337
+
+Duplicate Group 13
+-----------------
+Kept:
+consarltd.com services\consarltd.com\about-us.html
+
+Deleted:
+consarltd.com board-of-directors\consarltd.com\about-us.html
+consarltd.com careers\consarltd.com\about-us.html
+consarltd.com commercial-construction\consarltd.com\about-us.html
+consarltd.com contact\consarltd.com\about-us.html
+consarltd.com group-of-companies-old\consarltd.com\about-us.html
+consarltd.com group-of-companies\consarltd.com\about-us.html
+consarltd.com heavy-civil-construction\consarltd.com\about-us.html
+consarltd.com institutional-construction\consarltd.com\about-us.html
+consarltd.com mining-services\consarltd.com\about-us.html
+consarltd.com projects\consarltd.com\about-us.html
+consarltd.com ready-mix-concrete\consarltd.com\about-us.html
+consarltd.com residential-construction\consarltd.com\about-us.html
+consarltd.com sustainability-and-safety\consarltd.com\about-us.html
+
+Reason:
+Kept in the most central site-section dump still holding this exact content (canonical page folder has a different, full HTML file). All files in this group are byte-identical.
+Size: 42 bytes
+Content preview: No Content: https://consarltd.com/about-us
+SHA-256:
+42300BCA78E022320E4E8DB1E5CA16F2B7BC8317EB1ABACE2FD1710CEF447772
+
+Duplicate Group 14
+-----------------
+Kept:
+consarltd.com services\consarltd.com\services.html
+
+Deleted:
+consarltd.com about-us\consarltd.com\services.html
+
+Reason:
+Canonical original location: parent folder matches this page. All files in this group are byte-identical.
+Size: 21104 bytes
+Content preview: <!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tue Mar 17 2...
+SHA-256:
+F13649A28D2B9E77D411CF1208B21C27950E3B56CE329396E88F74C3E61718B7
+
+NOT DUPLICATES
+==============
+These files share a filename but have different contents. All were preserved (except members that belong to a separate identical-content group, which are handled above).
+
+about-us.html
+- Hash 42300BCA78E02232...  size=42  copies=14  preview=[No Content: https://consarltd.com/about-us]
+    consarltd.com board-of-directors\consarltd.com\about-us.html
+    consarltd.com careers\consarltd.com\about-us.html
+    consarltd.com commercial-construction\consarltd.com\about-us.html
+    consarltd.com contact\consarltd.com\about-us.html
+    consarltd.com group-of-companies-old\consarltd.com\about-us.html
+    consarltd.com group-of-companies\consarltd.com\about-us.html
+    consarltd.com heavy-civil-construction\consarltd.com\about-us.html
+    consarltd.com institutional-construction\consarltd.com\about-us.html
+    consarltd.com mining-services\consarltd.com\about-us.html
+    consarltd.com projects\consarltd.com\about-us.html
+    consarltd.com ready-mix-concrete\consarltd.com\about-us.html
+    consarltd.com residential-construction\consarltd.com\about-us.html
+    consarltd.com services\consarltd.com\about-us.html
+    consarltd.com sustainability-and-safety\consarltd.com\about-us.html
+- Hash D6CDFAC3EFA0107D...  size=40161  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com about-us\consarltd.com\about-us.html
+Different contents were preserved as separate unique files.
+
+board-of-directors.html
+- Hash 15444E745E42FC34...  size=52  copies=7  preview=[No Content: https://consarltd.com/board-of-directors]
+    consarltd.com commercial-construction\consarltd.com\board-of-directors.html
+    consarltd.com group-of-companies-old\consarltd.com\board-of-directors.html
+    consarltd.com heavy-civil-construction\consarltd.com\board-of-directors.html
+    consarltd.com institutional-construction\consarltd.com\board-of-directors.html
+    consarltd.com mining-services\consarltd.com\board-of-directors.html
+    consarltd.com ready-mix-concrete\consarltd.com\board-of-directors.html
+    consarltd.com residential-construction\consarltd.com\board-of-directors.html
+- Hash 4E59664C995DF7E3...  size=23025  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com board-of-directors\consarltd.com\board-of-directors.html
+Different contents were preserved as separate unique files.
+
+careers.html
+- Hash 8EBDE26C127961F4...  size=41  copies=9  preview=[No Content: https://consarltd.com/careers]
+    consarltd.com board-of-directors\consarltd.com\careers.html
+    consarltd.com commercial-construction\consarltd.com\careers.html
+    consarltd.com contact\consarltd.com\careers.html
+    consarltd.com group-of-companies-old\consarltd.com\careers.html
+    consarltd.com heavy-civil-construction\consarltd.com\careers.html
+    consarltd.com institutional-construction\consarltd.com\careers.html
+    consarltd.com mining-services\consarltd.com\careers.html
+    consarltd.com ready-mix-concrete\consarltd.com\careers.html
+    consarltd.com residential-construction\consarltd.com\careers.html
+- Hash 9D2BF19C56000B6A...  size=16680  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com careers\consarltd.com\careers.html
+Different contents were preserved as separate unique files.
+
+commercial-construction.html
+- Hash 555B52F61220ED0D...  size=66  copies=5  preview=[No Content: https://consarltd.com/services/commercial-construction]
+    consarltd.com heavy-civil-construction\consarltd.com\services\commercial-construction.html
+    consarltd.com institutional-construction\consarltd.com\services\commercial-construction.html
+    consarltd.com mining-services\consarltd.com\services\commercial-construction.html
+    consarltd.com ready-mix-concrete\consarltd.com\services\commercial-construction.html
+    consarltd.com residential-construction\consarltd.com\services\commercial-construction.html
+- Hash AC60C34353BA7BB8...  size=20244  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html
+Different contents were preserved as separate unique files.
+
+contact.html
+- Hash 248AEC2E0C0E3534...  size=41  copies=8  preview=[No Content: https://consarltd.com/contact]
+    consarltd.com board-of-directors\consarltd.com\contact.html
+    consarltd.com commercial-construction\consarltd.com\contact.html
+    consarltd.com group-of-companies-old\consarltd.com\contact.html
+    consarltd.com heavy-civil-construction\consarltd.com\contact.html
+    consarltd.com institutional-construction\consarltd.com\contact.html
+    consarltd.com mining-services\consarltd.com\contact.html
+    consarltd.com ready-mix-concrete\consarltd.com\contact.html
+    consarltd.com residential-construction\consarltd.com\contact.html
+- Hash C41E9AA1A5B2ED6D...  size=21436  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com contact\consarltd.com\contact.html
+Different contents were preserved as separate unique files.
+
+group-of-companies-old.html
+- Hash 1CF1ED09E339B549...  size=48609  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com group-of-companies-old\consarltd.com\group-of-companies-old.html
+- Hash 77894521DE3583FB...  size=56  copies=6  preview=[No Content: https://consarltd.com/group-of-companies-old]
+    consarltd.com commercial-construction\consarltd.com\group-of-companies-old.html
+    consarltd.com heavy-civil-construction\consarltd.com\group-of-companies-old.html
+    consarltd.com institutional-construction\consarltd.com\group-of-companies-old.html
+    consarltd.com mining-services\consarltd.com\group-of-companies-old.html
+    consarltd.com ready-mix-concrete\consarltd.com\group-of-companies-old.html
+    consarltd.com residential-construction\consarltd.com\group-of-companies-old.html
+Different contents were preserved as separate unique files.
+
+group-of-companies.html
+- Hash 0FF291702D789995...  size=51641  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com group-of-companies\consarltd.com\group-of-companies.html
+- Hash 22C267CF2B4DAD24...  size=52  copies=12  preview=[No Content: https://consarltd.com/group-of-companies]
+    consarltd.com board-of-directors\consarltd.com\group-of-companies.html
+    consarltd.com careers\consarltd.com\group-of-companies.html
+    consarltd.com commercial-construction\consarltd.com\group-of-companies.html
+    consarltd.com contact\consarltd.com\group-of-companies.html
+    consarltd.com group-of-companies-old\consarltd.com\group-of-companies.html
+    consarltd.com heavy-civil-construction\consarltd.com\group-of-companies.html
+    consarltd.com institutional-construction\consarltd.com\group-of-companies.html
+    consarltd.com mining-services\consarltd.com\group-of-companies.html
+    consarltd.com projects\consarltd.com\group-of-companies.html
+    consarltd.com ready-mix-concrete\consarltd.com\group-of-companies.html
+    consarltd.com residential-construction\consarltd.com\group-of-companies.html
+    consarltd.com sustainability-and-safety\consarltd.com\group-of-companies.html
+Different contents were preserved as separate unique files.
+
+heavy-civil-construction.html
+- Hash 3DDC0A0CB612739D...  size=20173  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html
+- Hash 7D5EF4B476231ED8...  size=67  copies=4  preview=[No Content: https://consarltd.com/services/heavy-civil-construction]
+    consarltd.com institutional-construction\consarltd.com\services\heavy-civil-construction.html
+    consarltd.com mining-services\consarltd.com\services\heavy-civil-construction.html
+    consarltd.com ready-mix-concrete\consarltd.com\services\heavy-civil-construction.html
+    consarltd.com residential-construction\consarltd.com\services\heavy-civil-construction.html
+Different contents were preserved as separate unique files.
+
+institutional-construction.html
+- Hash 969303743CFC48C4...  size=20638  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html
+- Hash CC9E5DC566A0C359...  size=69  copies=3  preview=[No Content: https://consarltd.com/services/institutional-construction]
+    consarltd.com mining-services\consarltd.com\services\institutional-construction.html
+    consarltd.com ready-mix-concrete\consarltd.com\services\institutional-construction.html
+    consarltd.com residential-construction\consarltd.com\services\institutional-construction.html
+Different contents were preserved as separate unique files.
+
+mining-services.html
+- Hash 3A9AE5149CFE19A4...  size=20199  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com mining-services\consarltd.com\services\mining-services.html
+- Hash 3FE59F8D6991510A...  size=58  copies=2  preview=[No Content: https://consarltd.com/services/mining-services]
+    consarltd.com ready-mix-concrete\consarltd.com\services\mining-services.html
+    consarltd.com residential-construction\consarltd.com\services\mining-services.html
+Different contents were preserved as separate unique files.
+
+projects.html
+- Hash 60D1838FC4B0FEC3...  size=196805  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com projects\consarltd.com\projects.html
+- Hash DF5A37445CA4EAF4...  size=42  copies=11  preview=[No Content: https://consarltd.com/projects]
+    consarltd.com board-of-directors\consarltd.com\projects.html
+    consarltd.com careers\consarltd.com\projects.html
+    consarltd.com commercial-construction\consarltd.com\projects.html
+    consarltd.com contact\consarltd.com\projects.html
+    consarltd.com group-of-companies-old\consarltd.com\projects.html
+    consarltd.com heavy-civil-construction\consarltd.com\projects.html
+    consarltd.com institutional-construction\consarltd.com\projects.html
+    consarltd.com mining-services\consarltd.com\projects.html
+    consarltd.com ready-mix-concrete\consarltd.com\projects.html
+    consarltd.com residential-construction\consarltd.com\projects.html
+    consarltd.com sustainability-and-safety\consarltd.com\projects.html
+Different contents were preserved as separate unique files.
+
+ready-mix-concrete.html
+- Hash 77C52A0C245DB713...  size=19419  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html
+- Hash A38CEB457526EF71...  size=61  copies=1  preview=[No Content: https://consarltd.com/services/ready-mix-concrete]
+    consarltd.com residential-construction\consarltd.com\services\ready-mix-concrete.html
+Different contents were preserved as separate unique files.
+
+services.html
+- Hash CBE3201040077D0E...  size=42  copies=13  preview=[No Content: https://consarltd.com/services]
+    consarltd.com board-of-directors\consarltd.com\services.html
+    consarltd.com careers\consarltd.com\services.html
+    consarltd.com commercial-construction\consarltd.com\services.html
+    consarltd.com contact\consarltd.com\services.html
+    consarltd.com group-of-companies-old\consarltd.com\services.html
+    consarltd.com group-of-companies\consarltd.com\services.html
+    consarltd.com heavy-civil-construction\consarltd.com\services.html
+    consarltd.com institutional-construction\consarltd.com\services.html
+    consarltd.com mining-services\consarltd.com\services.html
+    consarltd.com projects\consarltd.com\services.html
+    consarltd.com ready-mix-concrete\consarltd.com\services.html
+    consarltd.com residential-construction\consarltd.com\services.html
+    consarltd.com sustainability-and-safety\consarltd.com\services.html
+- Hash F13649A28D2B9E77...  size=21104  copies=2  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com about-us\consarltd.com\services.html
+    consarltd.com services\consarltd.com\services.html
+Different contents were preserved as separate unique files.
+
+sustainability-and-safety.html
+- Hash 8D6628407A972583...  size=20587  copies=1  preview=[<!DOCTYPE html>
+<!--?xml encoding="utf-8" ?--><!--  Last Published: Tu...]
+    consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html
+- Hash ED24C8E3240F4C6A...  size=59  copies=10  preview=[No Content: https://consarltd.com/sustainability-and-safety]
+    consarltd.com board-of-directors\consarltd.com\sustainability-and-safety.html
+    consarltd.com careers\consarltd.com\sustainability-and-safety.html
+    consarltd.com commercial-construction\consarltd.com\sustainability-and-safety.html
+    consarltd.com contact\consarltd.com\sustainability-and-safety.html
+    consarltd.com group-of-companies-old\consarltd.com\sustainability-and-safety.html
+    consarltd.com heavy-civil-construction\consarltd.com\sustainability-and-safety.html
+    consarltd.com institutional-construction\consarltd.com\sustainability-and-safety.html
+    consarltd.com mining-services\consarltd.com\sustainability-and-safety.html
+    consarltd.com ready-mix-concrete\consarltd.com\sustainability-and-safety.html
+    consarltd.com residential-construction\consarltd.com\sustainability-and-safety.html
+Different contents were preserved as separate unique files.
+
+UNIQUE FILES (no duplicates; preserved)
+======================================
+consarltd.com about-us\consarltd.com\about-us.html  (40161 bytes)  SHA-256=D6CDFAC3EFA0107D1189D34899E70D98FFDAB9F04C6E74F0B83FF3B4867EA785
+consarltd.com board-of-directors\consarltd.com\board-of-directors.html  (23025 bytes)  SHA-256=4E59664C995DF7E3365D51DA0B26BD597245616E1D3D9BA31C124FA3321D6CDC
+consarltd.com careers\consarltd.com\careers.html  (16680 bytes)  SHA-256=9D2BF19C56000B6AE5B9A7759B565E55FF06B5C8C695F63932BEDCDB0EA81B09
+consarltd.com commercial-construction\consarltd.com\services\commercial-construction.html  (20244 bytes)  SHA-256=AC60C34353BA7BB840BDC8E00B5E63F4C3945882C2892D5A3ED356A113DB2E92
+consarltd.com contact\consarltd.com\contact.html  (21436 bytes)  SHA-256=C41E9AA1A5B2ED6DA9F3B841C36BAE23505A71C058DF4C3FD5D23DCA525D1707
+consarltd.com group-of-companies-old\consarltd.com\group-of-companies-old.html  (48609 bytes)  SHA-256=1CF1ED09E339B549F607CDB8ED7FF57D456E1C3A1D74C5E85DAD9E4D374A1F44
+consarltd.com group-of-companies\consarltd.com\group-of-companies.html  (51641 bytes)  SHA-256=0FF291702D789995A79F03DE8724557B730323C918C57229B9E02901B6D0B43B
+consarltd.com heavy-civil-construction\consarltd.com\services\heavy-civil-construction.html  (20173 bytes)  SHA-256=3DDC0A0CB612739D18A0A7DE1B8955BA4BF0B8C3854330375DD8EE82E720FF53
+consarltd.com institutional-construction\consarltd.com\services\institutional-construction.html  (20638 bytes)  SHA-256=969303743CFC48C4D6134A61BD9FA4C71A6BB25D8A5B3A9A4F35F07BE99ABF3D
+consarltd.com mining-services\consarltd.com\services\mining-services.html  (20199 bytes)  SHA-256=3A9AE5149CFE19A4D8B1B0E0153C11973864CE9676CD08C6E366AA627541D5CC
+consarltd.com projects\consarltd.com\projects.html  (196805 bytes)  SHA-256=60D1838FC4B0FEC38178966FD2160D7508BB024AD9071B0774AE7836F1CF85A2
+consarltd.com ready-mix-concrete\consarltd.com\services\ready-mix-concrete.html  (19419 bytes)  SHA-256=77C52A0C245DB713B90BAAC17A19A1FBE588AADDA78B51D78F35B8E16E060331
+consarltd.com residential-construction\consarltd.com\services\ready-mix-concrete.html  (61 bytes)  SHA-256=A38CEB457526EF71C023B2B52E787D0D317B8BD9A7B446487AF9DD7C9FA5FD5E
+consarltd.com residential-construction\consarltd.com\services\residential-construction.html  (20169 bytes)  SHA-256=0D81D6E87C337D122748178311590E3BD8A880AD7A2782A777FA94E17EB975B5
+consarltd.com sustainability-and-safety\consarltd.com\sustainability-and-safety.html  (20587 bytes)  SHA-256=8D6628407A97258350DFEA0022D965FBABFAE43B08B3554547CE772EE17E3212
+consarltd.com\index.html  (70986 bytes)  SHA-256=2F98D838AE9E491828A00DA80A3B771D8043F5B8AFC52F1AD33DD4E4321826D7
